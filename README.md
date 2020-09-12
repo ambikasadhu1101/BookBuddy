@@ -1,2 +1,3 @@
 # BookBuddy
-Your personal library.
+Your personal library. <br>
+Deployed: https://bookbuddy-nitk.herokuapp.com/
